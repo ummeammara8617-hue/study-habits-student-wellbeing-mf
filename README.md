@@ -17,3 +17,5 @@ It aims to understand how good study routines may support student well-being.
 
 ## Privacy Reminder
 Personal records and identifiable participant data must not be uploaded to this repository.
+## Next step
+The team will review the project plan and prepare a survey draft.
